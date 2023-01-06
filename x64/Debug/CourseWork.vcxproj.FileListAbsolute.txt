@@ -1,0 +1,6 @@
+D:\Visual\Projects\CourseWork\x64\Debug\CourseWork.vcxproj.AssemblyReference.cache
+D:\Visual\Projects\CourseWork\x64\Debug\CourseWork.vcxproj.SuggestedBindingRedirects.cache
+D:\Visual\Projects\CourseWork\x64\Debug\CourseWork.GraphicEditor.resources
+D:\Visual\Projects\CourseWork\x64\Debug\CourseWork.vcxproj.GenerateResource.cache
+D:\Visual\Projects\CourseWork\x64\Debug\CourseWork.exe
+D:\Visual\Projects\CourseWork\x64\Debug\CourseWork.GraphicEditor.en-US.resources

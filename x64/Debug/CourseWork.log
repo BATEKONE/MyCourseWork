@@ -1,0 +1,11 @@
+﻿  GraphicEditor.cpp
+D:\Visual\Projects\CourseWork\GraphicEditor.h(435,86): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+D:\Visual\Projects\CourseWork\GraphicEditor.h(435,34): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+D:\Visual\Projects\CourseWork\GraphicEditor.h(436,69): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+D:\Visual\Projects\CourseWork\GraphicEditor.h(436,18): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+D:\Visual\Projects\CourseWork\GraphicEditor.h(449,88): warning C4244: аргумент: преобразование "long double" в "int", возможна потеря данных
+D:\Visual\Projects\CourseWork\GraphicEditor.h(449,35): warning C4244: аргумент: преобразование "long double" в "int", возможна потеря данных
+D:\Visual\Projects\CourseWork\GraphicEditor.h(450,69): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+D:\Visual\Projects\CourseWork\GraphicEditor.h(450,18): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+  Circle.obj : обнаружен модуль MSIL; для MSIL последовательная компоновка отключена; выполняется полная компоновка
+  CourseWork.vcxproj -> D:\Visual\Projects\CourseWork\x64\Debug\CourseWork.exe
